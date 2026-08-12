@@ -1,63 +1,22 @@
-<h1 align="center">Hi there, I'm Venky 👋</h1>
+### Hi, I'm Mithulan Reddy 👋
 
-<h3 align="center">Aspiring Data Analyst | Turning Data into Decisions</h3>
+Data Analyst focused on SQL, Python, and Power BI — currently building an end-to-end analytics portfolio using real Indian government open data (NITI Aayog SDG Index, MoSPI).
 
-<p align="center">
-🎓 Final-year MCA student, CMR University, Bangalore<br>
-🔍 Passionate about SQL, Python, and BI dashboards<br>
-📊 Actively seeking Fresher Data Analyst roles
-</p>
+🎓 **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)**
 
----
+- 🔭 **Currently working on:** SDG India Index analysis — state-wise SDG performance trends, sourced from NITI Aayog, built with Python and Power BI
+- 🤝 **Open to collaborating on:** dashboard and data-storytelling projects
+- 🌱 **Currently learning:** Advanced SQL, DAX, and data storytelling
+- 📫 **Reach me:** [LinkedIn](https://linkedin.com/in/your-actual-handle) · venky72003@gmail.com
 
 ### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-
-
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-
-
-
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-
-
-### 📜 Certifications
-- IBM Data Analytics Professional Certificate
-- HackerRank SQL (Advanced)
-- Microsoft DP-600 — Fabric Analytics Engineer
-
-### 📌 Currently
-- 🚧 Building an end-to-end analytics portfolio project (SQL + Python EDA + Power BI/Tableau dashboard)
-- 📈 Sharpening SQL and data storytelling skills
-- 🎯 Applying for Fresher Data Analyst roles in Bangalore
-
-### 📫 Connect with me
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](your-linkedin-url)
-[
-
-![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-](mailto:your-email@gmail.com)
-
----
-<p align="center"><i>⭐ Portfolio project coming soon — stay tuned!</i></p>
+### 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=GMithulanReddy&theme=dark&hide_border=true&layout=compact)
