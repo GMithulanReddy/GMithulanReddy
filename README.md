@@ -1,11 +1,11 @@
 ### Hi, I'm Mithulan Reddy 👋
 
-Data Analyst focused on SQL, Python, and Power BI — currently building an end-to-end analytics portfolio using real Indian government open data (NITI Aayog SDG Index, MoSPI).
+Data Analyst focused on SQL, Python, and Power BI currently building an end-to-end analytics portfolio using real Indian government open data (NITI Aayog SDG Index, MoSPI).
 
 🎓 **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)**
 
-- 🔭 **Currently working on:** SDG India Index analysis — state-wise SDG performance trends, sourced from NITI Aayog, built with Python and Power BI
-- 🤝 **Open to collaborating on:** dashboard and data-storytelling projects
+- 🔭 **Currently working on:** SDG India Index analysis  state wise SDG performance trends, sourced from NITI Aayog, built with Python and Power BI
+- 🤝 **Open to collaborating on:** dashboard and data storytelling projects
 - 🌱 **Currently learning:** Advanced SQL, DAX, and data storytelling
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/g-mithulan-reddy-a52258306?utm_source=share_via&utm_content=profile&utm_medium=member_android) · venky72003@gmail.com
 
